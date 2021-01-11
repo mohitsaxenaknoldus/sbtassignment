@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mohit\Desktop\Knoldus\sbt\src\main\scala\Hello.scala:2:5: not found: value Actor[0m
+[0m[[0m[31merror[0m] [0m[0m    Actor.hello()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mohit\Desktop\Knoldus\sbt\src\main\scala\Hello.scala:3:5: not found: value Persistence[0m
+[0m[[0m[31merror[0m] [0m[0m    Persistence.hello()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
