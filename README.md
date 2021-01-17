@@ -29,3 +29,8 @@ Plugins:
 - codesquad-sbt-plugin
 - scalastyle-sbt-plugin
 
+How to run:
+
+- Clone the repo.
+- Inside sbt folder, run the command: sbt run
+
